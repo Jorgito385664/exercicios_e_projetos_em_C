@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628534158 source:c:\users\usuario\desktop\c code blocks\gerar numeros aleatorios para preencher um vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

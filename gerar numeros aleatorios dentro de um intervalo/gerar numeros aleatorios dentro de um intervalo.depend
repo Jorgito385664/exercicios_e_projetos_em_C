@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628534510 source:c:\users\usuario\desktop\c code blocks\gerar numeros aleatorios dentro de um intervalo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
